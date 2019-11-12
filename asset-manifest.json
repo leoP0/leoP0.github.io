@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.5e1a60e7.chunk.js",
-    "main.js.map": "/static/js/main.5e1a60e7.chunk.js.map",
+    "main.js": "/static/js/main.9c38391d.chunk.js",
+    "main.js.map": "/static/js/main.9c38391d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.842a5d88.js",
     "runtime-main.js.map": "/static/js/runtime-main.842a5d88.js.map",
     "static/js/2.816578f4.chunk.js": "/static/js/2.816578f4.chunk.js",
     "static/js/2.816578f4.chunk.js.map": "/static/js/2.816578f4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d6872f95d51a12d2fd1e22b02097de23.js": "/precache-manifest.d6872f95d51a12d2fd1e22b02097de23.js",
+    "precache-manifest.6c3ecaf4e18143ebd4e889d8123cc151.js": "/precache-manifest.6c3ecaf4e18143ebd4e889d8123cc151.js",
     "service-worker.js": "/service-worker.js",
     "static/media/github.svg": "/static/media/github.617870e4.svg",
     "static/media/instagram.svg": "/static/media/instagram.662a4f14.svg",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.842a5d88.js",
     "static/js/2.816578f4.chunk.js",
-    "static/js/main.5e1a60e7.chunk.js"
+    "static/js/main.9c38391d.chunk.js"
   ]
 }
